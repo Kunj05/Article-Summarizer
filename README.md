@@ -1,17 +1,16 @@
-## Running React on Replit
+# reactjs-ai-summarizer
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+## Objective
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+- The primary goal of the `reactjs-ai-summarizer` project is to provide users with a seamless and intuitive interface for leveraging AI-powered text summarization. 
+- Drawing inspiration from a YouTube tutorial, the objective is to enhance user experience by enabling them to quickly generate concise summaries of lengthy articles or documents.
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+## Description
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+- The reactjs-ai-summarizer is a ReactJS application that incorporates cutting-edge AI technology to deliver efficient text summarization. 
+- Users can easily input their desired text, and the application utilizes advanced algorithms to generate coherent and condensed summaries. 
+- The project combines the power of ReactJS, Redux Toolkit, and Tailwind CSS to create a visually appealing and responsive user interface.
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+## Project Link
 
-### Typescript
-
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+#### You can reach my project from [here](https://reactjs-ai-summarizer.vercel.app/) 👈
